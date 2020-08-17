@@ -89,9 +89,9 @@ header {
   grid-template-columns: 1fr;
   background: #2a2f4a;
   color: #fff; }
-  #section-b .section-b-img img {
-    height: 400px;
-    width: 625px; }
+  #section-b .section-b-img {
+    background: url("https://source.unsplash.com/random/500x500/?mountains") no-repeat center center/cover;
+    height: 400px; }
   #section-b .section-b-text {
     padding: 1rem 0;
     height: 220px;
@@ -117,9 +117,9 @@ header {
   grid-template-columns: 1fr;
   background: #887bb8;
   color: #fff; }
-  #section-c .section-c-img img {
-    height: 400px;
-    width: 625px; }
+  #section-c .section-c-img {
+    background: url("https://source.unsplash.com/random/500x500/?ocean") no-repeat center center/cover;
+    height: 400px; }
   #section-c .section-c-text {
     padding: 1rem 0;
     height: 220px;
@@ -145,9 +145,9 @@ header {
   grid-template-columns: 1fr;
   background: #7ab096;
   color: #fff; }
-  #section-d .section-d-img img {
-    height: 400px;
-    width: 625px; }
+  #section-d .section-d-img {
+    background: url("https://source.unsplash.com/random/500x500/?desert") no-repeat center center/cover;
+    height: 400px; }
   #section-d .section-d-text {
     padding: 1rem 0;
     height: 220px;
