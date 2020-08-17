@@ -348,3 +348,27 @@ header {
     }
   }
 }
+
+// Footer 
+#main-footer {
+  height: 100px;
+  background: #242943;
+
+  .container {
+    height: 100%;
+
+    .icons {
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      .fas {
+        color: #fff;
+      }
+
+      .fab {
+        color: #242943;
+      }
+    }
+  }
+}
