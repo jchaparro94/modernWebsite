@@ -1,0 +1,25 @@
+{
+  "name": "modernsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^14.7.0",
+    "node-sass": "^4.14.1",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaparro94/modernWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchaparro94/modernWebsite/issues"
+  },
+  "homepage": "https://github.com/jchaparro94/modernWebsite#readme"
+}
